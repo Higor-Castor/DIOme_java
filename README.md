@@ -1,17 +1,17 @@
-<h1>Estudos<h1/>
+# 📚 **Estudos**
 
+Este repositório foi criado como parte do meu processo de aprendizado em tecnologias web e desenvolvimento back-end. O projeto abrange conceitos de **HTML**, **CSS**, **Java**, **JSP** e **MySQL** e já está **concluído**! 🚀
 
->status do projeto: esse projeto foi feito pra aprender HTML,CSS e JavaScript e já esta concluido.
+---
 
+## ⚙️ **Como executar este projeto?**
 
+Para rodar este projeto na sua máquina, você precisará ter instalado:
 
-para rodar esse projeto na sua maquina, por favor prescisase de:
+- **Servidor MySQL** 📦  
+- **Apache NetBeans IDE** 🖥️  
 
-
-```
-VScode, node 
-
-```
-# Estudos
-# Estudos
-# Estudos
+### Passos:
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
