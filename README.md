@@ -14,4 +14,4 @@ Para rodar este projeto na sua máquina, você precisará ter instalado:
 ### Passos:
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Higor-Castor/DIOme_java.git
